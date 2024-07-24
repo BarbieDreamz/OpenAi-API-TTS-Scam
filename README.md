@@ -7,4 +7,6 @@ These can be used for real-time but that is not what happened during my investig
 
 Information related to the direct scam is redacted. I opted to use a python script to interact with the API and output an audio file.
 
+This assumes your environment is setup properly and you have API keys from your OpenAI account.
+
 Text to Speech: https://platform.openai.com/docs/guides/text-to-speech
