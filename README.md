@@ -1,7 +1,7 @@
 # OpenAi-API-TTS-Scam
 Python Script using OpenAI API to compare the speech audio used in a phone scam.
 
-The scammer wrote a script and used the OpenAI text to speech voice options to create audio for their scam. The scammer then calls the individual and leaves a voicemail on their computer. 
+The scammer wrote a script and used the OpenAI text to speech voice options to create audio for their scam. The scammer then calls the individual and leaves a voicemail.
 
 These can be used for real-time but that is not what happened during my investigation.
 
